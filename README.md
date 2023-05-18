@@ -15,7 +15,8 @@ As a web developer, I share insightful topics, development tips, and tutorials t
 ### Job Finder App:
 The job finder app I developed using React Native and Expo Go is a versatile platform that enables users to discover and apply for job opportunities based on their preferences. By leveraging the power of React Native, the app delivers a seamless and native-like experience across both iOS and Android devices.https://github.com/UB30-4/ubjobfinder_rectnative.git
 
-### 3D products customizer: The 3D product customizer I developed is an innovative web application that allows users to personalize and customize products in a three-dimensional environment. It provides a dynamic and interactive experience where users can modify various aspects of a product, such as colors, textures, materials, and even add custom engravings or designs.
+### 3D products customizer: 
+The 3D product customizer I developed is an innovative web application that allows users to personalize and customize products in a three-dimensional environment. It provides a dynamic and interactive experience where users can modify various aspects of a product, such as colors, textures, materials, and even add custom engravings or designs.
 One of the key challenges encountered during the development process was implementing the 3D rendering and interaction features. This involved integrating a robust 3D engine or library, such as Three.js or Babylon.js, to render the customizable product and enable real-time manipulation.https://github.com/UB30-4/threejs_3dshirt-customizer.git
 
 Feel free to explore these repositories and check out the codebase and project documentation.
